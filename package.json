@@ -1,0 +1,16 @@
+{
+  "name": "shah-empire-md",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "moment-timezone": "^0.5.45",
+    "chalk": "^5.3.0",
+    "pino": "^8.17.0",
+    "fs-extra": "^11.2.0"
+  }
+}
